@@ -1,0 +1,18 @@
+=====================
+SETTLE UP APPLICATION
+=====================
+This application can be used when you are with friends and you have to record how much each member has paid 
+during a group trip or a group project and you want to divide it evenly.
+
+It uses 2D arrays and linked lists to calculate how much money each member owes to one another.An algorithm
+also shows the least number of transactions required to settle the debts. 
+
+1. When you run the application, it will show you a menu.
+2. You first need to add atleast 2 members before you can select option other than "add member" option.
+3. Select 1 to add members.
+4. If you need to record a transaction in which a member paid for everyone in the group, press 2.
+5. If you want to record a transcation in which a member paid for another member in group, press 3.
+6. If you want to see least number of transactions required to settle up every transaction, press 4.
+
+Hope you'll enjoy.
+Stay safe :)
